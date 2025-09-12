@@ -18,4 +18,4 @@
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 
 ### languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust)](https://skillicons.dev)
