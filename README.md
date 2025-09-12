@@ -14,7 +14,7 @@
   </a>
 </p>
 
-### Contributing
+### Contributed History
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 
 ### languages
